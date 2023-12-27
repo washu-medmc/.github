@@ -8,3 +8,4 @@ on:
 jobs:
   deploy:
     uses: WUIT-SI/webtools-pipelines/.github/workflows/satispress-deployment.yml@main
+    secrets: inherit
