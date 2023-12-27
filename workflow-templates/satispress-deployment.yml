@@ -1,4 +1,4 @@
-name: Satispress Deploy Starter
+name: Satispress Deployment
 
 on:
   push:
