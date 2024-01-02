@@ -1,6 +1,5 @@
 {
 	"name": "SatisPress Deployment Starter",
 	"description": "Use this workflow to deploy to SatisPress.",
-	"iconName": "octicon rocket",
-	"labels": ["preview"]
+	"iconName": "octicon rocket"
 }
